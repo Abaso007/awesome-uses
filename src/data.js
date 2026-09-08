@@ -10639,6 +10639,29 @@ module.exports = [
       'SQL',
     ],
   },
+    {
+    name: 'Hunter Weitzman',
+    description:
+      'Builder, founder, writer. Runs HunterMorris. Publishes Almost Something',
+    url: 'https://hunterweitzman.com/uses',
+    country: '🇨🇦',
+    emoji: '✍️',
+    computer: 'apple',
+    tags: [
+      'Writer',
+      'Founder',
+      'Newsletters',
+      'Ghostwriting',
+      'Community',
+      'Substack',
+      'Notion',
+      'HubSpot',
+      'Zapier',
+      'Disco',
+      'Claude',
+      'Lovable',
+    ],
+  },
   {
     name: 'Andrew Minga',
     description:
