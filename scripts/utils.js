@@ -79,8 +79,18 @@ module.exports.getStatusCode = function (url) {
       new Error('Request timed out')
     );
 
+    // Some hosts (Cloudflare, Caddy, etc.) block requests that don't send a
+    // browser-like User-Agent, returning a 403 even though the page is live.
+    // Send one so we don't produce false-positive failures for those sites.
+    const requestOptions = {
+      headers: {
+        'User-Agent':
+          'Mozilla/5.0 (compatible; awesome-uses-link-checker/1.0; +https://github.com/wesbos/awesome-uses)',
+      },
+    };
+
     client
-      .get(url, (res) => {
+      .get(url, requestOptions, (res) => {
         clearTimeout(timeoutId);
         resolve(res.statusCode);
       })
