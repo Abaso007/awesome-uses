@@ -40,6 +40,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Adam Greenough](http://adamgreenough.net/uses/) — Freelance web designer, developer & WordPress expert from the UK
 * [Berat Bozkurt ](https://beratbozkurt.net/en/uses) — Frontend developer living in Turkey. Currently building mobile apps, indie hacker
 * [Maxime Blaise](https://maximeblaise.fr/uses) — AI Native Product Designer
+* [Raúl Jiménez Ortega](https://www.rauljimenez.info/uses) — Helping developers and communities share geospatial technology, open knowledge, and useful tools in public.
 * [Thxie](https://thxie.com/about#uses) — AI Enthusiast | Minimalist | Post-Language Programmer, 🤩 Just for fun!
 * [Hussain Abbas](https://hussainweb.me/uses) — Director of Engineering and Solutions Architect. Enthusiastic about Platform Engineering, Developer Tooling, System Design, and User Centricity.
 * [J Lopes](https://jlopes.eu/uses/) — Web Developer & Designer, creative problem-solver.
