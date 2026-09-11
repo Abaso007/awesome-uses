@@ -10651,7 +10651,7 @@ module.exports = [
       'SQL',
     ],
   },
-    {
+  {
     name: 'Hunter Weitzman',
     description:
       'Builder, founder, writer. Runs HunterMorris. Publishes Almost Something',
