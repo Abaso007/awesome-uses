@@ -2738,6 +2738,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Michel Fiege',
+    description: 'I’m a web enthousiast, programmer, ex entrepreneur and former teacher.',
+    url: 'https://m1es.net/uses',
+    country: '🇳🇱',
+    twitter: '@m1es',
+    computer: 'apple',
+    phone: 'iphone',
+    emoji: '🚴',
+    tags: [
+      'Ruby',
+      'Ruby on Rails',
+      'Developer',
+      'Blogger',
+      'Teacher',
+    ],
+  },
+  {
     name: 'Karthik Kadambi',
     description: 'Full Stack Developer, UX Enthusiast and Aspiring AI Engineer',
     url: 'https://karthikkadambi.com/uses',
