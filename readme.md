@@ -138,6 +138,7 @@ This readme is auto-generated from the data.js file, so please don't PR this fil
 * [Preshit Deorukhkar](https://nuclearbits.com/uses) — Tech Enthusiast & Consultant
 * [Sudan Chapagain](https://sudanchapagain.com.np/uses) — Student
 * [Tim Benniks](https://timbenniks.dev/uses) — Developer relations, speaker, content creator
+* [Michel Fiege](https://m1es.net/uses) — I’m a web enthousiast, programmer, ex entrepreneur and former teacher.
 * [Karthik Kadambi](https://karthikkadambi.com/uses) — Full Stack Developer, UX Enthusiast and Aspiring AI Engineer
 * [Damian Cyrus](https://damiancyrus.com/uses) — Full Stack Developer, Front-end Software Engineer, Tech Lead, DevDad.
 * [Allan Deutsch](https://allandeutsch.com/uses) — Builds things on the internet.
