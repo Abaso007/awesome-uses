@@ -21778,12 +21778,7 @@ module.exports = [
     country: '🇺🇸',
     computer: 'apple',
     phone: 'iphone',
-    tags: [
-      'Developer',
-      'UX',
-      'Neovim',
-      'Elixir'
-    ],
+    tags: ['Developer', 'UX', 'Neovim', 'Elixir'],
   },
   {
     name: 'Alberto Gallego',
